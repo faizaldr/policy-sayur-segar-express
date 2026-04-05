@@ -1,6 +1,3 @@
-Berikut versi **Kebijakan Privasi yang lebih profesional dan siap untuk Google Play Store**, dengan struktur yang jelas, formal, dan memenuhi prinsip *User Data Policy* (termasuk transparansi & non-sharing data):
-
-
 # KEBIJAKAN PRIVASI
 
 **Sayur Segar Express**
